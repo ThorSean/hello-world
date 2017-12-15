@@ -8,9 +8,15 @@ Do I have to type in html here?  It looks like I don't because this is a README 
 I'm now going to just list a bunch of cities to play with formatting.
 
 Atlanta
+
 Barcelona
+
 Chicago
-Dusseldorf 
-Frankfort 
+
+Dusseldorf
+
+Frankfort
+
 Geneva
+
 Halifax 
